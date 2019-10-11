@@ -11,7 +11,7 @@ Pedro Naretto: https://github.com/PedroNaretto .
 Catalina Solano: https://github.com/cpsolano .
 
 
-##Entrega 4
+## Entrega 4
 
 En este proyecto se busca poder simular el transporte de sedimento minero de fondo de ríos. Esto se realizará en base a métodos langrangianos, es decir, que estudia el movimiento de cada partícula de forma individual.
 
