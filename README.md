@@ -41,12 +41,15 @@ Velocidad del flujo en y (vfy) = 0.1 m/s
 El intervalo de tiempo en los que grafica la posición de la partícula fue de (dt) = 0.001 s, con un tiempo máximo de simulación (tmax) de 1 s. Esto fué igual para las tres pruebas mostradas en los resultados.
 
 
-Características del computador:
+## Características del computador:
 
 Fabricante: ASUSTek Computer Inc.
 Procesador: Intel(R)Core(TM)i7-7700HQ CPU @ 2.80GHz 2.81GHz
 Memoria instalada (RAM) : 16.0 GB (15.9 GB utilizable)
 
-Para 4 particulas, el tiempo transcurrido en procesar el código fue de 1.07s, para 11 fue de 9.53s, y para el de 20partículas el tiempo fue de 86.85s. 
+## Graficos y tiempos 
+En este computador se corrió para 3 cantidades de partículas, obteniendo así los siguientes gráficos y tiempos. Para 4 particulas, el tiempo transcurrido en procesar el código fue de 1.07s, para 11 fue de 9.53s, y para el de 20partículas el tiempo fue de 86.85s. 
 
-![alt text](https://github.com/meechaguep/MCOC-Proyecto-0/blob/master/loss-of-significance.png?raw=true)
+![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_4particulas.png)
+![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_11particulas.png)
+![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_20particulas.png)
