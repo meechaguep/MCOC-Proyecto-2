@@ -62,6 +62,6 @@ Memoria instalada (RAM) : 16.0 GB (15.9 GB utilizable)
 ## Graficos y tiempos 
 En este computador se corrió para 3 cantidades de partículas, obteniendo así los siguientes gráficos y tiempos. Para 4 particulas, el tiempo transcurrido en procesar el código fue de 13.30s, para 11 fue de 154.24s, y para el de 20partículas el tiempo fue de 409.97s. 
 
-![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_4particulas.png)
-![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_11particulas.png)
-![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_20particulas.png)
+![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_4_particulas_2.png)
+![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_11_particulas.png)
+![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_20_particulas.png)
