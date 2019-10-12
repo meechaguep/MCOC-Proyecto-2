@@ -40,6 +40,16 @@ Velocidad del flujo en y (vfy) = 0.1 m/s
 
 El intervalo de tiempo en los que grafica la posición de la partícula fue de (dt) = 0.001 s, con un tiempo máximo de simulación (tmax) de 1 s. Esto fué igual para las tres pruebas mostradas en los resultados.
 
+## Validación
+
+Al comparar los datos que se obtuvieron a partir del código con los del profesor, se puede ver una similitud para 2 particulas, con una diferencia de un decimal, lo cual se puede justificar por temas de unidades, pero se logra hacer una validación por los resultados obtenidos que se mueven en un rango parecido haciendo la excepción del decimal.
+
+![alt text](https://github.com/cpsolano/MCOC-Proyecto-2/blob/master/Gr%C3%A1ficos/2%20p.png)
+
+Por otro lado, no se logra hacer una validación para una mayor cantidad de particular con respecto al movimiento que se espera entre ellas, pero se logran valores parecidos igual. El tener un movimiento distinto se puede deber a una modelación distinta del choque entre particulas.
+
+![alt text](https://github.com/cpsolano/MCOC-Proyecto-2/blob/master/Gráficos/5%20p.png)
+![alt text](https://github.com/cpsolano/MCOC-Proyecto-2/blob/master/Gr%C3%A1ficos/10%20p.png)
 
 ## Características del computador:
 
@@ -50,7 +60,7 @@ Procesador: Intel(R)Core(TM)i7-7700HQ CPU @ 2.80GHz 2.81GHz
 Memoria instalada (RAM) : 16.0 GB (15.9 GB utilizable)
 
 ## Graficos y tiempos 
-En este computador se corrió para 3 cantidades de partículas, obteniendo así los siguientes gráficos y tiempos. Para 4 particulas, el tiempo transcurrido en procesar el código fue de 1.07s, para 11 fue de 9.53s, y para el de 20partículas el tiempo fue de 86.85s. 
+En este computador se corrió para 3 cantidades de partículas, obteniendo así los siguientes gráficos y tiempos. Para 4 particulas, el tiempo transcurrido en procesar el código fue de 13.30s, para 11 fue de 154.24s, y para el de 20partículas el tiempo fue de 409.97s. 
 
 ![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_4particulas.png)
 ![alt text](https://github.com/meechaguep/MCOC-Proyecto-2/blob/master/Grafico_11particulas.png)
