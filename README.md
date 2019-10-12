@@ -46,10 +46,18 @@ Al comparar los datos que se obtuvieron a partir del código con los del profeso
 
 ![alt text](https://github.com/cpsolano/MCOC-Proyecto-2/blob/master/Gr%C3%A1ficos/2%20p.png)
 
+![alt text](https://github.com/cpsolano/MCOC-Proyecto-2/blob/master/Gr%C3%A1ficos/particle_positions%202.png)
+
 Por otro lado, no se logra hacer una validación para una mayor cantidad de particular con respecto al movimiento que se espera entre ellas, pero se logran valores parecidos igual. El tener un movimiento distinto se puede deber a una modelación distinta del choque entre particulas.
 
 ![alt text](https://github.com/cpsolano/MCOC-Proyecto-2/blob/master/Gráficos/5%20p.png)
 ![alt text](https://github.com/cpsolano/MCOC-Proyecto-2/blob/master/Gr%C3%A1ficos/10%20p.png)
+
+Comparación para 20 particulas
+
+![alt text](https://github.com/cpsolano/MCOC-Proyecto-2/blob/master/Gr%C3%A1ficos/20.1%20p.png)
+
+![alt text](https://github.com/cpsolano/MCOC-Proyecto-2/blob/master/Gr%C3%A1ficos/particle_positions%201.png)
 
 ## Características del computador:
 
